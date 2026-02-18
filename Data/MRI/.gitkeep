@@ -1,0 +1,12 @@
+# MRI Data
+
+Place MRI data files here (structural and functional).
+
+## Expected Subdirectories
+
+- `structural/` - Anatomical MRI scans
+- `functional/` - Resting-state fMRI data
+- `DBM/` - Deformation-based morphometry outputs
+- `Atlas/` - Brain atlas files
+
+NIfTI files (.nii, .nii.gz) should be organized by subject and session.
