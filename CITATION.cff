@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code or data in your research, please cite it as below."
+type: software
+title: "Sudmex Morphine: Code Logbook for Morphine Effects in Sudmex Rats"
+authors:
+  - family-names: "Neuropsytox"
+    given-names: "Research Team"
+    affiliation: "Neuropsytox Research Group"
+repository-code: "https://github.com/neuropsytox/Sudmex_morphine"
+license: MIT
+keywords:
+  - neuroscience
+  - morphine
+  - rat model
+  - MRI
+  - behavioral analysis
+  - neuroimaging
+  - addiction research
+abstract: >
+  This repository contains the complete code logbook and analysis 
+  pipeline for studying morphine effects in Sudmex rats. It includes 
+  behavioral assessments, structural and functional MRI analyses, and 
+  multivariate statistical approaches for investigating brain-behavior 
+  relationships.
