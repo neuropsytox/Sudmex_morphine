@@ -1,0 +1,24 @@
+Left Hemisphere Label,Right Hemisphere Label,Matter,System,Region of interest
+decreased,none,Grey Matter,Forebrain,Basal Forebrain Region
+increased,increased,Grey Matter,Hippocampus Fomation,Cornu Ammonis 1
+both,increased,Grey Matter,Hippocampus Fomation,Cornu Ammonis 3
+both,both,Grey Matter,Hippocampus Fomation,Dentate Gyrus
+decreased,none,Grey Matter,Olfactory System,Entorhinal Cortex
+none,increased,Grey Matter,Hypothalamus,Hypothalamic Region
+decreased,none,Grey Matter,Visual System,Medio Lateral Secondary Visual Cortex
+none,decreased,Grey Matter,Sensory-Motor,Molecular Layer of the Cerebellum
+increased,increased,Grey Matter,Hippocampus Fomation,Parasubiculum
+none,increased,Grey Matter,Olfactory System,Perirhinal Area 35
+none,increased,Grey Matter,Olfactory System,Perirhinal Area 36
+none,decreased,Grey Matter,Insular System,Posterior Agralunar Insular Cortex
+none,increased,Grey Matter,Somatosensory System,Primary Somatosensory Cortex Upperlips
+increased,none,Grey Matter,Visual System,Primary Visual Cortex Monocular Area
+increased,none,Grey Matter,Retrosplenial System,Retosplenial Dysgranular Cortex
+none,increased,Grey Matter,Somatosensory System,Secondary Somatosensory Cortex
+none,both,Grey Matter,Striatal System,Striatum
+none,decreased,Grey Matter,Hippocampus Fomation,Subiculum
+decreased,increased,White Matter,Medulla,Brainstem
+increased,decreased,White Matter,Corpus Callosum,Corpus Callosum and Associated Subcortical White Matter
+none,both,White Matter,Internal Capsule,Descending Corticofugal Pathways and Globus Pallidum
+decreased,none,White Matter,Medulla,Fimbria of the Hippocampus
+none,both,White Matter,Thalamus,Thalamus 

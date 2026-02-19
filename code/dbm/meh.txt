@@ -1,0 +1,9 @@
+#!/bin/bash
+#SBATCH --time=00:59:00
+#SBATCH --nodes=1
+#SBATCH --ntasks=80
+#SBATCH --account=rrg-mchakrav-ab
+
+module load cobralab
+cd /scratch/m/mchakrav/jrasgado/sudmexmor/analysis/smri/DBM_invivo
+antsBrainExtraction.sh -d 3 -a jacobians/output/secondlevel/final/average/template_sharpen_shapeupdate.nii.gz -o template_sharpen_shapeupdate_brain.nii.gz

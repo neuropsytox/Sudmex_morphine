@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="216pt" height="216pt" viewBox="0 0 216 216" version="1.1">
+<defs>
+<clipPath id="clip1">
+  <path d="M 0 27.234375 L 216 27.234375 L 216 188.765625 L 0 188.765625 Z M 0 27.234375 "/>
+</clipPath>
+<image id="image1503" width="115" height="86" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHMAAABWCAIAAABzQD40AAAABmJLR0QA/wD/AP+gvaeTAAABdElEQVR4nO3WPYrCQByG8dm4BlHUQiFq4QXs0tl7AxsRL+AFbLyAB9AzCIKFhZ340Qi2FuYOaho/EhmSuMU2orvZrXYC+/zqd+DhX40QAAAAAAAAAAAAAPBbb6oDftBqtUzTTCQSl8vlcDjsdrvpdPo4aLfb+Xw+Fosdj8d+v6+q89W76oAwzWazVqtlMpkgCAzDKJVKrus+Dur1eqVSMQxDCOH7frlc7nQ6imKfaaoDwhSLxWQy6TjO9XoVQuz3++Fw+DgYj8eWZTmOI6UUQhQKhUajoab1RaQvGwSB53lSSk3TbNueTCa2bT9tBoOBZVm3283zvPv9nk6nlaS+ivRls9msEELXddd1Z7PZarX6ctbr9bbb7fl89n3/80kUxFQHfKtarZqmmUqlTqfTfD4fjUYh481mk8vl4vG4lHK9Xv9ZZIhI/w263a6u68vlcrFYqG4BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPxjH3IsfUHbaZV3AAAAAElFTkSuQmCC"/>
+<pattern id="pattern0" patternUnits="userSpaceOnUse" width="115" height="86"  patternTransform="matrix(1.878261,0,0,1.878261,0,27.234783)">
+  <use xlink:href="#image1503"/>
+</pattern>
+<image id="image1506" width="115" height="86" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHMAAABWCAYAAAD8IqljAAAABmJLR0QA/wD/AP+gvaeTAAABQklEQVR4nO3VTU7bUBQG0C8xJjIhExbArIvouENUlF2wJo+YwgxRdTVdQIdRFUUthTgMbH4ERGKACUTnSJ483ydd6/N9LwEAAAAAAAAAAOBDGGy6gT4svh7XKZOUybBcJWWSJql+/jh5WjufTOvJ/OLZ+me0s+kG3tri23GdIhkWq2SUpOheLJ/Xzg+ndf68Z3f92qrJ/Hv0vU6R9hct8xDkdZKrpLp8YTIPpnX+J2m6hW7/ZPb5pnW7JnOUNsTdPHxZk2T5cpD3e+5qi27/MMms1057sV1hDtKGcXe8rpJcJ9X5miCTTH63E7j4Mq3vp7lo1pV/aMNNN/Cm/qU9Upfdc5NUp+uDfGz86+Ik4ybZb5L9Ppvsz1bdmUl3b+4lKZLq7HVBAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC8n1tlyTnIdXMeEwAAAABJRU5ErkJggg=="/>
+<pattern id="pattern1" patternUnits="userSpaceOnUse" width="115" height="86"  patternTransform="matrix(1.878261,0,0,1.878261,0,27.234783)">
+  <use xlink:href="#image1506"/>
+</pattern>
+<image id="image1509" width="115" height="86" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHMAAABWCAYAAAD8IqljAAAABmJLR0QA/wD/AP+gvaeTAAAAbUlEQVR4nO3RQQ2AMAAEwSsJtrDDEyMYQA3K2vLAAZ82ZEbBJpsAAAAAAAAAAAAwhTI6YAbb2a+yJkuS+yj76J6vltEBM2gt6TWp9R07ugcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgRx5n+QxYP/W9TQAAAABJRU5ErkJggg=="/>
+<pattern id="pattern2" patternUnits="userSpaceOnUse" width="115" height="86"  patternTransform="matrix(1.878261,0,0,1.878261,0,27.234783)">
+  <use xlink:href="#image1509"/>
+</pattern>
+</defs>
+<g id="surface1499">
+<rect x="0" y="0" width="216" height="216" style="fill:rgb(0%,0%,0%);fill-opacity:1;stroke:none;"/>
+<path style="fill:none;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0 216 L 216 216 L 216 0 L 0 0 Z M 0 216 "/>
+<g clip-path="url(#clip1)" clip-rule="nonzero">
+<rect x="0" y="0" width="216" height="216" style="fill:url(#pattern0);stroke:none;"/>
+<rect x="0" y="0" width="216" height="216" style="fill:url(#pattern1);stroke:none;"/>
+<rect x="0" y="0" width="216" height="216" style="fill:url(#pattern2);stroke:none;"/>
+</g>
+<path style="fill:none;stroke-width:0.675;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 97.667969 76.335938 L 97.402344 76.070312 L 97.257812 74.191406 L 97.273438 72.3125 L 97.414062 70.433594 L 97.667969 70.175781 L 99.523438 68.554688 L 99.546875 68.53125 L 101.425781 68.0625 L 103.304688 67.402344 L 104.792969 66.679688 L 105.183594 66.636719 L 107.0625 66.472656 L 108.9375 66.394531 L 110.816406 66.410156 L 111.085938 66.679688 L 111.152344 68.554688 L 111.144531 70.433594 L 110.816406 70.761719 L 109.425781 72.3125 L 108.9375 72.796875 L 107.679688 74.191406 L 107.0625 74.808594 L 105.84375 76.070312 L 105.183594 76.730469 L 103.824219 77.949219 L 103.304688 78.464844 L 101.425781 78.390625 L 99.546875 78.203125 L 99.292969 77.949219 L 97.667969 76.335938 "/>
+<path style="fill:none;stroke-width:0.675;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,100%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 99.546875 76.761719 L 98.828125 76.070312 L 97.804688 74.191406 L 98.144531 72.3125 L 99.546875 71.453125 L 101.425781 70.695312 L 102.089844 70.433594 L 103.304688 70.003906 L 105.183594 69.304688 L 107.0625 68.65625 L 108.9375 68.757812 L 109.632812 70.433594 L 109.019531 72.3125 L 108.9375 72.394531 L 107.3125 74.191406 L 107.0625 74.445312 L 105.492188 76.070312 L 105.183594 76.378906 L 103.425781 77.949219 L 103.304688 78.070312 L 101.425781 77.972656 L 101.21875 77.949219 L 99.546875 76.761719 "/>
+</g>
+</svg>

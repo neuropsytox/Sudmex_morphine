@@ -1,0 +1,20 @@
+Left Hemisphere Label,Right Hemisphere Label,Matter,Territories,System,Region of interest
+none,decreased,Gray,Cerebellum,Cerebellum,Cb_8
+none,decreased,Gray,Cerebellum,Cerebellum,Cb_9
+decreased,decreased,Gray,Cerebellum,Cerebellum,Cb_3
+decreased,decreased,Gray,Cerebellum,Cerebellum,Cb_4
+decreased,none,Gray,Cerebellum,Cerebellum,Fl
+none,decreased,Gray,Rhombencephalon,Reticular nuclei,PCRt
+increased,none,Gray,Cortex,Entorhinal,Entorhinal
+increased,none,Gray,Cortex,Visual,V2
+increased,none,Gray,Mesencephalon,Reticular nuclei,mRt
+decreased,none,Gray,Cortex,Auditory,AuV
+decreased,none,White,Hippocampus,Hippocampus,Slu
+none,decreased,Gray,Hippocampus,Hippocampus,CA1
+decreased,decreased,Gray,Sub-pallium,Striatum,Cpu
+decreased,none,Gray,Diencephalon,Thalamus,VL
+none,decreased,Gray,Cortex,Cingulate,Cg2
+none,increased,Gray,Cortex,Somatosensory,S1
+increased,none,Gray,Cortex,Motor,M1
+none,decreased,Gray,Cortex,Prelimbic,PrL
+increased,none,Gray,Olf. Bulb,Olf. Bulb,GrO

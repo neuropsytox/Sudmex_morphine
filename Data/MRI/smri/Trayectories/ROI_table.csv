@@ -1,0 +1,96 @@
+Model2,Type,Contrast,ROIs,Hemisphere,Coordinates,Effect,t-value
+Model 1,Linear,Mor > Ctrl,Agranular Dysgranular Insular Cortex,,"1.56,-0.74,-3.52",Increase,9.499
+Model 1,Linear,Mor > Ctrl,Primary Visual Cortex,right,"3.69,-3.52,4.83",Increase,7.461
+Model 1,Linear,Mor > Ctrl,Molecular Layer of the Cerebellum,left,"-2.22,-8.28,2.21",Increase,7.443
+Model 1,Linear,Mor > Ctrl,Striatum,right,"4.35,-1.39,-0.57",Increase,7.414
+Model 1,Linear,Mor > Ctrl,Middle Cerebellar Peduncle ,right,"4.02,-8.44,-0.9",Increase,7.341
+Model 1,Linear,Mor > Ctrl,Primary Auditory Cortex,left,"-7.63,-1.72,-0.41",Increase,7.223
+Model 1,Linear,Mor > Ctrl,Primary Cingular Cortex,right,"1.23,2.38,3.36",Increase,6.639
+Model 1,Linear,Mor > Ctrl,Brainstem,left,"-3.53,-8.44,-2.7",Increase,5.581
+Model 1,Linear,Mor > Ctrl,Dentate Gyrus,left,"-1.89,-2.71,1.88",Increase,5.443
+Model 1,Linear,Mor > Ctrl,Agranular Dysgranular Insular Cortex,,"-2.87,-14.35,-1.56",Increase,5.371
+Model 1,Linear,Mor > Ctrl,Entorhinal Cortex,left,"-4.35,-2.87,-3.69",Increase,5.325
+Model 1,Linear,Mor > Ctrl,Primary Somatosensory Cortex Forelimb,left,"-3.69,0.41,4.5",Increase,5.304
+Model 1,Linear,Mor > Ctrl,Agranular Dysgranular Insular Cortex,,"1.07,-5.82,-4.34",Increase,4.967
+Model 1,Linear,Mor > Ctrl,Frontal Association Cortex,left,"-1.56,7.62,3.52",Increase,4.723
+Model 1,Linear,Mor > Ctrl,Granule Cell Level of the Cerebellum,left,"-7.3,-8.61,-1.23",Increase,4.653
+Model 1,Linear,Mor > Ctrl,Molecular Layer of the Cerebellum,right,"3.2,-11.07,3.03",Increase,4.602
+Model 1,Linear,Mor > Ctrl,Primary Somatosensory Cortex Upperlips,right,"5.66,3.36,0.9",Increase,4.588
+Model 1,Linear,Mor > Ctrl,Olfactory Bulb,left,"-0.9,12.21,3.03",Increase,3.937
+Model 1,Linear,Mor > Ctrl,Agranular Dysgranular Insular Cortex,,"-4.68,4.84,3.52",Increase,3.698
+Model 1,Linear,Mor > Ctrl,Agranular Dysgranular Insular Cortex,,"-5.99,1.07,-3.03",Increase,3.653
+Model 1,Linear,Mor > Ctrl,Olfactory Bulb,left,"-0.41,5.66,-1.56",Increase,3.413
+Model 1,Linear,Mor > Ctrl,Agranular Dysgranular Insular Cortex,,"-1.72,2.71,-4.18",Increase,3.099
+Model 1,Linear,Mor > Ctrl,Agranular Dysgranular Insular Cortex,,"-1.56,-2.87,-3.52",Decrease,-8.034
+Model 1,Linear,Mor > Ctrl,Granule Cell Level of the Cerebellum,left,"-5.5,-9.92,-1.39",Decrease,-7.805
+Model 1,Linear,Mor > Ctrl,Entorhinal Cortex,right,"5.33,2.54,-1.23",Decrease,-7.542
+Model 1,Linear,Mor > Ctrl,PreLimbic System,left,"-1.56,4.34,-0.08",Decrease,-7.448
+Model 1,Linear,Mor > Ctrl,Molecular Layer of the Cerebellum,left,"-3.04,-12.87,0.25",Decrease,-7.329
+Model 1,Linear,Mor > Ctrl,Ventral Hippocampal Commissure,right,"0.41,0.25,1.23",Decrease,-6.753
+Model 1,Linear,Mor > Ctrl,Parietal Cortex Postero Rostral,right,"4.68,-2.54,3.19",Decrease,-6.415
+Model 1,Linear,Mor > Ctrl,Corpus Callosum and Associated Subcortical White Matter,left,"-5.99,-5,1.23",Decrease,-6.058
+Model 1,Linear,Mor > Ctrl,Olfactory Bulb,right,"1.07,10.9,1.39",Decrease,-5.956
+Model 1,Linear,Mor > Ctrl,Granule Cell Level of the Cerebellum,right,"1.89,-10.25,1.23",Decrease,-5.846
+Model 1,Linear,Mor > Ctrl,Brainstem,right,"1.72,-4.34,-0.08",Decrease,-4.92
+Model 1,Linear,Mor > Ctrl,Agranular Dysgranular Insular Cortex,,"6.32,-5,-3.52",Decrease,-4.899
+Model 1,Linear,Mor > Ctrl,Molecular Layer of the Cerebellum,right,"6.48,-10.9,-1.39",Decrease,-4.88
+Model 1,Linear,Mor > Ctrl,Primary Somatosensory Cortex Jaw,right,"4.02,4.34,2.87",Decrease,-4.675
+Model 1,Linear,Mor > Ctrl,Agranular Dysgranular Insular Cortex,,"-2.38,3.03,5.16",Decrease,-4.611
+Model 1,Linear,Mor > Ctrl,Agranular Dysgranular Insular Cortex,,"2.71,1.07,5.16",Decrease,-4.324
+Model 1,Linear,Mor > Ctrl,Brainstem,right,"1.39,-13.36,-3.85",Decrease,-4.227
+Model 1,Linear,Mor > Ctrl,Deeper Layers of the Superior Colliculus,left,"-1.72,-5.66,1.72",Decrease,-4.172
+Model 1,Linear,Mor > Ctrl,Agranular Dysgranular Insular Cortex,,"-5.83,-9.59,2.87",Decrease,-3.738
+Model 1,Linear,Mor > Ctrl,Brainstem,left,"-0.9,-8.12,-4.67",Decrease,-3.211
+Model 1,Linear,Mor > Ctrl,Agranular Dysgranular Insular Cortex,,"6.81,-5.82,1.39",Decrease,-3.001
+Model 1,Linear,Mor > Ctrl,Lateral Parietal Associative Cortex,left,"-4.68,-1.39,3.19",Decrease,-2.867
+Model 1,Linear,Mor > Ctrl,Agranular Dysgranular Insular Cortex,,"-0.74,-11.23,4.5",Decrease,-2.832
+Model 1,Poly,Mor > Ctrl,Molecular Layer of the Cerebellum,right,"0.08,-9.76,-0.57",Increase,8.414
+Model 1,Poly,Mor > Ctrl,Striatum,right,"4.35,0.25,-0.9",Increase,7.016
+Model 1,Poly,Mor > Ctrl,Basal Forebrain Region,right,"0.25,1.56,-1.88",Increase,7.01
+Model 1,Poly,Mor > Ctrl,Lateral Parietal Associative Cortex,right,"2.87,-2.05,5",Increase,6.865
+Model 1,Poly,Mor > Ctrl,Retosplenial Dysgranular Cortex,left,"-1.23,-2.05,5.32",Increase,6.708
+Model 1,Poly,Mor > Ctrl,Molecular Layer of the Cerebellum,left,"-5.33,-8.61,-1.56",Increase,6.292
+Model 1,Poly,Mor > Ctrl,Parasubiculum,right,"1.56,-5.33,2.87",Increase,6.282
+Model 1,Poly,Mor > Ctrl,Substantia Nigra,right,"2.05,-4.84,-2.05",Increase,6.106
+Model 1,Poly,Mor > Ctrl,Agranular Dysgranular Insular Cortex,,"3.04,-1.39,-4.67",Increase,6.085
+Model 1,Poly,Mor > Ctrl,Agranular Dysgranular Insular Cortex,,"-4.02,-1.39,-4.5",Increase,6.033
+Model 1,Poly,Mor > Ctrl,Corpus Callosum and Associated Subcortical White Matter,right,"0.74,1.89,2.21",Increase,5.803
+Model 1,Poly,Mor > Ctrl,Thalamus ,left,"-2.54,-3.2,1.23",Increase,5.764
+Model 1,Poly,Mor > Ctrl,Agranular Dysgranular Insular Cortex,,"-1.89,-7.3,3.52",Increase,5.67
+Model 1,Poly,Mor > Ctrl,Molecular Layer of the Cerebellum,right,"3.36,-10.9,2.7",Increase,5.459
+Model 1,Poly,Mor > Ctrl,Agranular Dysgranular Insular Cortex,,"-6.15,2.54,2.87",Increase,5.431
+Model 1,Poly,Mor > Ctrl,Ectorhinal Cortex,left,"-7.47,-4.34,-0.41",Increase,5.346
+Model 1,Poly,Mor > Ctrl,Agranular Dysgranular Insular Cortex,,"7.3,-5.98,-0.57",Increase,5.102
+Model 1,Poly,Mor > Ctrl,Granule Cell Level of the Cerebellum,right,"6.32,-9.76,-2.05",Increase,4.78
+Model 1,Poly,Mor > Ctrl,Molecular Layer of the Cerebellum,left,"-4.84,-10.41,2.38",Increase,4.148
+Model 1,Poly,Mor > Ctrl,Inferior Cerebellar Peduncle/Spinal Trigeminal Tract,left,"-4.18,-12.54,-3.03",Increase,3.78
+Model 1,Poly,Mor > Ctrl,Olfactory Bulb,left,"-0.57,12.21,3.69",Increase,3.128
+Model 1,Poly,Mor > Ctrl,Olfactory Bulb,left,"-1.07,5.16,0.25",Increase,3.091
+Model 1,Poly,Mor > Ctrl,Primary Auditory Cortex,right,"5.5,-3.2,1.72",Increase,2.951
+Model 1,Poly,Mor > Ctrl,Agranular Dysgranular Insular Cortex,,"0.25,6.31,4.18",Increase,2.806
+Model 1,Poly,Mor > Ctrl,Agranular Dysgranular Insular Cortex,,"-7.3,-0.25,-1.56",Increase,2.649
+Model 1,Poly,Mor > Ctrl,Agranular Dysgranular Insular Cortex,,"2.71,-9.59,-4.67",Increase,2.529
+Model 1,Poly,Mor > Ctrl,Retrosplenial Granular Cortex Part B,left,"-0.9,-3.85,3.85",Decrease,-8.938
+Model 1,Poly,Mor > Ctrl,Molecular Layer of the Cerebellum,left,"-2.22,-8.44,1.72",Decrease,-7.788
+Model 1,Poly,Mor > Ctrl,Periventricular Grey,right,"-0.25,-13.03,-3.03",Decrease,-6.808
+Model 1,Poly,Mor > Ctrl,Subiculum,left,"-5.33,-5.66,1.23",Decrease,-6.79
+Model 1,Poly,Mor > Ctrl,Hypothalamic Region,right,"1.07,-3.2,-3.03",Decrease,-6.76
+Model 1,Poly,Mor > Ctrl,Brainstem,left,"-0.57,-8.44,-3.36",Decrease,-6.674
+Model 1,Poly,Mor > Ctrl,Perirhinal Area 36,right,"4.35,-6.64,0.74",Decrease,-6.557
+Model 1,Poly,Mor > Ctrl,Molecular Layer of the Cerebellum,right,"3.2,-10.9,0.57",Decrease,-6.24
+Model 1,Poly,Mor > Ctrl,Basal Forebrain Region,left,"-1.23,3.85,-1.88",Decrease,-5.795
+Model 1,Poly,Mor > Ctrl,Primary Somatosensory Cortex Barrel field,left,"-5.99,-1.72,4.01",Decrease,-5.689
+Model 1,Poly,Mor > Ctrl,Agranular Dysgranular Insular Cortex,,"1.89,8.28,3.69",Decrease,-5.255
+Model 1,Poly,Mor > Ctrl,Molecular Layer of the Cerebellum,right,"-0.41,-12.21,1.88",Decrease,-5.249
+Model 1,Poly,Mor > Ctrl,Primary Somatosensory Cortex Dysgranular,right,"5.01,1.56,3.85",Decrease,-5.202
+Model 1,Poly,Mor > Ctrl,Agranular Dysgranular Insular Cortex,,"-6.48,-10.57,1.72",Decrease,-5.025
+Model 1,Poly,Mor > Ctrl,Agranular Insular Cortex,right,"4.68,4.51,0.25",Decrease,-4.926
+Model 1,Poly,Mor > Ctrl,Agranular Dysgranular Insular Cortex,,"2.54,3.03,-4.01",Decrease,-4.857
+Model 1,Poly,Mor > Ctrl,Agranular Dysgranular Insular Cortex,,"-6.32,-10.74,-2.87",Decrease,-4.835
+Model 1,Poly,Mor > Ctrl,Descending Corticofugal Pathways and Globus Pallidum,right,"2.05,0.9,1.23",Decrease,-4.745
+Model 1,Poly,Mor > Ctrl,Entorhinal Cortex,left,"-5.66,1.56,-1.72",Decrease,-4.725
+Model 1,Poly,Mor > Ctrl,Agranular Dysgranular Insular Cortex,,"6.15,-1.56,-3.52",Decrease,-4.673
+Model 1,Poly,Mor > Ctrl,Primary Motor Cortex,left,"-2.22,6.31,2.7",Decrease,-4.347
+Model 1,Poly,Mor > Ctrl,Lateral Entorhinal Cortex Internal part,left,"-6.97,-4.51,-2.37",Decrease,-3.917
+Model 1,Poly,Mor > Ctrl,Agranular Dysgranular Insular Cortex,,"-2.54,11.23,2.21",Decrease,-3.465
+Model 1,Poly,Mor > Ctrl,Agranular Dysgranular Insular Cortex,,"1.23,9.1,-0.25",Decrease,-2.822

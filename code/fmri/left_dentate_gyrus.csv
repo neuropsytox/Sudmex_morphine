@@ -1,0 +1,30 @@
+Left Hemisphere Label,Right Hemisphere Label,Matter,Territories,System,Region of interest
+none,decreased,Grey Matter,Cortex,Insular System,Agranular Insular Cortex
+none,decreased,Grey Matter,Cortex,Hippocampus Fomation,Cornu Ammonis 1
+none,decreased,Grey Matter,Cortex,Hippocampus Fomation,Cornu Ammonis 2
+none,decreased,Grey Matter,Cortex,Hippocampus Fomation,Cornu Ammonis 3
+increased,increased,Grey Matter,Cortex,Hippocampus Fomation,Dentate Gyrus
+none,decreased,Grey Matter,Cortex,Olfactory System,Entorhinal Cortex
+increased,increased,Grey Matter,Cortex,Hippocampus Fomation,Fasciola Cinereum
+none,increased,Grey Matter,Cortex,Olfactory System,Lateral Entorhinal Cortex Internal part
+increased,increased,Grey Matter,Cerebellum,Sensory-Motor,Molecular Layer of the Cerebellum
+decreased,none,Grey Matter,Cortex,Hippocampus Fomation,Parasubiculum
+decreased,none,Grey Matter,Cortex,Olfactory System,Perirhinal Area 35
+decreased,none,Grey Matter,Cortex,Limbic System,PreLimbic System
+decreased,none,Grey Matter,Cortex,Auditory System,Primary Auditory Cortex
+decreased,decreased,Grey Matter,Cortex,Motor System,Primary Motor Cortex
+none,increased,Grey Matter,Cortex,Somatosensory System,Primary Somatosensory Cortex Barrel field
+none,increased,Grey Matter,Cortex,Somatosensory System,Primary Somatosensory Cortex Dysgranular Zone 0
+none,decreased,Grey Matter,Cortex,Somatosensory System,Primary Somatosensory Cortex Forelimb
+increased,none,Grey Matter,Cortex,Retrosplenial System,Retosplenial Dysgranular Cortex
+increased,increased,Grey Matter,Cortex,Retrosplenial System,Retrosplenial Granular Cortex Part B
+decreased,none,Grey Matter,Cortex,Auditory System,Secondary Auditory Cortex Ventral Part
+decreased,none,Grey Matter,Cortex,Cingular System,Secondary Cingular Cortex
+none,decreased,Grey Matter,Cortex,Motor System,Secondary Motor Cortex
+decreased,decreased,Grey Matter,Basal ganglia,Striatal System,Striatum
+none,increased,Grey Matter,Cortex,Hippocampus Fomation,Subiculum
+decreased,increased,decreased,Brainstem,Medulla,Brainstem
+increased,decreased,White Matter,Fiber tract,Corpus Callosum,Corpus Callosum and Associated Subcortical White Matter
+none,decreased,White Matter,Mesencephalon,Inter Hemispheric Commisures,Deeper Layers of the Superior Colliculus
+none,decreased,White Matter,Fiber tract,Internal Capsule,Descending Corticofugal Pathways and Globus Pallidum
+increased,decreased,Grey Matter,Diencephalon,Septum,Septal Region

@@ -1,0 +1,14 @@
+Left Hemisphere Label,Right Hemisphere Label,Matter,Territories,System,Region of interest
+none,increased,Grey Matter,Forebrain,Forebrain,Basal Forebrain Region
+decreased,increased,Grey Matter,Cortex,Hippocampus Fomation,Cornu Ammonis 1
+none,increased,Grey Matter,Cortex,Hippocampus Fomation,Cornu Ammonis 3
+decreased,none,Grey Matter,Cortex,Temporal System,Ectorhinal Cortex
+increased,none,Grey Matter,Cerebellum,Sensory-Motor,Granule Cell Level of the Cerebellum
+increased,none,Grey Matter,Diencephalon,Hypothalamus,Hypothalamic Region
+both,both,Grey Matter,Cerebellum,Sensory-Motor,Molecular Layer of the Cerebellum
+none,decreased,Grey Matter,Cortex,Visual System,Primary Visual Cortex Binocular Area
+none,decreased,Grey Matter,Cortex,Visual System,Primary Visual Cortex
+increased,none,Grey Matter,Cortex,Retrosplenial System,Retosplenial Dysgranular Cortex
+none,increased,Grey Matter,Cortex,Auditory System,Secondary Auditory Cortex Ventral Part
+none,both,White Matter,Brainstem,Medulla,Brainstem
+none,increased,White Matter,Fiber tract,Internal Capsule,Descending Corticofugal Pathways and Globus Pallidum

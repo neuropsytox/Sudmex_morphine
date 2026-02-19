@@ -1,0 +1,16 @@
+for i in $(cat significative_rois.txt); do file=$(basename $i).nii.gz; roi=${file%.*.*}; @chauffeur_afni -ulay SIGMA_ExVivo_Brain_Template_Masked.nii -box_focus_slices AMASK_FOCUS_ULAY -olay M1/${file} -cbar Reds_and_Blues_Inv -ulay_range 0% 100% -func_range 3 -set_subbricks 0 4 5 -clusterize "-NN 1 -clust_nvox 1" -thr_olay_p2stat 0.000003 -thr_olay_pside bisided -olay_alpha Yes -olay_boxed Yes -opacity 2 -prefix Clusterize_maps/fdr/${roi}/output -set_xhairs OFF -montx 4 -monty 4 -label_mode OFF -no_clean; done
+
+for i in $(cat significative_rois.txt); do file=$(basename $i).nii.gz; roi=${file%.*.*}; @chauffeur_afni -ulay SIGMA_ExVivo_Brain_Template_Masked.nii -box_focus_slices AMASK_FOCUS_ULAY -olay M1/${file} -cbar Reds_and_Blues_Inv -ulay_range 0% 100% -func_range 3 -set_subbricks 0 4 5 -clusterize "-NN 1 -clust_nvox 1" -thr_olay_p2stat 0.001 -thr_olay_pside bisided -olay_alpha Yes -olay_boxed Yes -opacity 2 -prefix Clusterize_maps/uncorrected/${roi}/output -set_xhairs OFF -montx 4 -monty 4 -label_mode OFF -no_clean; done
+
+
+for i in $(cat significative_rois.txt); do file=$(basename $i).nii.gz; roi=${file%.*.*}; @chauffeur_afni -ulay SIGMA_ExVivo_Brain_Template_Masked.nii -box_focus_slices AMASK_FOCUS_ULAY -olay M1/${file} -cbar Reds_and_Blues_Inv -ulay_range 0% 100% -func_range 3 -set_subbricks 0 5 6 -clusterize "-NN 1 -clust_nvox 1" -thr_olay_p2stat 0.000004 -thr_olay_pside bisided -olay_alpha Yes -olay_boxed Yes -opacity 2 -prefix Clusterize_maps/fdr/${roi}/output -set_xhairs OFF -montx 4 -monty 4 -label_mode OFF -no_clean; done
+
+for i in $(cat significative_rois.txt); do file=$(basename $i).nii.gz; roi=${file%.*.*}; @chauffeur_afni -ulay SIGMA_ExVivo_Brain_Template_Masked.nii -box_focus_slices AMASK_FOCUS_ULAY -olay M1/${file} -cbar Reds_and_Blues_Inv -ulay_range 0% 100% -func_range 3 -set_subbricks 0 5 6 -clusterize "-NN 1 -clust_nvox 1" -thr_olay_p2stat 0.001 -thr_olay_pside bisided -olay_alpha Yes -olay_boxed Yes -opacity 2 -prefix Clusterize_maps/uncorrected/${roi}/output -set_xhairs OFF -montx 4 -monty 4 -label_mode OFF -no_clean; done
+
+
+A H -0.1 V -0.1 A 4.9 3.4 -0.5 0.7 C; -10.7 1 -6 4 S; 3.5 2 X R 0.5
+C -10.7 1 -6 4 S; 3.5 2 X R 0.5
+
+for i in $(ls Model_*); do sus=${i%.nii.gz*}; echo @chauffeur_afni -ulay SUIT.nii -box_focus_slices AMASK_FOCUS_ULAY -olay ${sus}.nii.gz -cbar Reds_and_Blues_Inv -ulay_range 0% 100% -func_range 3 -set_subbricks 0 6 7 -clusterize "-NN 1 -clust_nvox 1" -thr_olay_p2stat 0.001 -thr_olay_pside bisided -olay_alpha Yes -olay_boxed Yes -opacity 2 -prefix Clusterize_maps/uncorrected/${sus} -set_xhairs OFF -montx 4 -monty 4 -label_mode OFF -no_clean; done
+
+for i in $(cat significative_rois.txt); do file=$(basename $i).nii.gz; roi=${file%.*.*}; @chauffeur_afni -ulay SIGMA_ExVivo_Brain_Template_Masked.nii -box_focus_slices AMASK_FOCUS_ULAY -olay M1/${file} -cbar Reds_and_Blues_Inv -ulay_range 0% 100% -func_range 3 -set_subbricks 0 4 5 -clusterize "-NN 1 -clust_nvox 1" -thr_olay_p2stat 0.001 -thr_olay_pside bisided -olay_alpha Yes -olay_boxed Yes -opacity 2 -prefix Clusterize_maps/uncorrected/${roi}/output -set_xhairs OFF -montx 4 -monty 4 -label_mode OFF -no_clean; done

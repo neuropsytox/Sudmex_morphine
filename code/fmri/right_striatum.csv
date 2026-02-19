@@ -1,0 +1,19 @@
+Left Hemisphere Label,Right Hemisphere Label,Matter,Territories,System,Region of interest
+increased,none,Grey Matter,Forebrain,Forebrain,Basal Forebrain Region
+decreased,decreased,Grey Matter,Cortex,Hippocampus Fomation,Cornu Ammonis 1
+decreased,none,Grey Matter,Cortex,Hippocampus Fomation,Cornu Ammonis 3
+none,increased,Grey Matter,Cortex,Hippocampus Fomation,Dentate Gyrus
+decreased,none,Grey Matter,Cortex,Visual System,Lateral Secondary Visual Cortex
+decreased,increased,Grey Matter,Cerebellum,Sensory-Motor,Molecular Layer of the Cerebellum
+increased,increased,Grey Matter,Olfactive Bulb,Olfactory System,Olfactory Bulb
+none,increased,Grey Matter,Cortex,Hippocampus Fomation,Parasubiculum
+none,decreased,Grey Matter,Cortex,Auditory System,Primary Auditory Cortex
+decreased,decreased,Grey Matter,Cortex,Somatosensory System,Primary Somatosensory Cortex Barrel field
+decreased,none,Grey Matter,Cortex,Somatosensory System,Primary Somatosensory Cortex Forelimb
+increased,none,Grey Matter,Cortex,Visual System,Primary Visual Cortex Monocular Area
+increased,none,Grey Matter,Cortex,Retrosplenial System,Retosplenial Dysgranular Cortex
+decreased,decreased,Grey Matter,Cortex,Retrosplenial System,Retrosplenial Granular Cortex Part B
+none,decreased,Grey Matter,Cortex,Motor System,Secondary Motor Cortex
+increased,increased,Grey Matter,Basal ganglia,Striatal System,Striatum
+both,increased,White Matter,Brainstem,Medulla,Brainstem
+decreased,none,White Matter,Fiber tract,Corpus Callosum,Corpus Callosum and Associated Subcortical White Matter

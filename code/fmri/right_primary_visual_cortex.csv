@@ -1,0 +1,17 @@
+Left Hemisphere Label,Right Hemisphere Label,Matter,Territories,System,Region of interest
+none,decreased,Grey Matter,Cortex,Hippocampus Fomation,Dentate Gyrus
+none,increased,Grey Matter,Cerebellum,Sensory-Motor,Granule Cell Level of the Cerebellum
+both,both,Grey Matter,Cerebellum,Sensory-Motor,Molecular Layer of the Cerebellum
+decreased,none,Grey Matter,Olfactive Bulb,Olfactory System,Olfactory Bulb
+increased,none,Grey Matter,Cortex,Parietal System,Parietal Cortex Postero Caudal Part
+decreased,none,Grey Matter,Cortex,Olfactory System,Perirhinal Area 35
+decreased,none,Grey Matter,Cortex,Olfactory System,Perirhinal Area 36
+none,increased,Grey Matter,Diencephalon,Visual System,Pretectal Region
+none,decreased,Grey Matter,Cortex,Somatosensory System,Primary Somatosensory Cortex Dysgranular Zone 0
+increased,none,Grey Matter,Cortex,Somatosensory System,Primary Somatosensory Cortex Hindlimb
+none,decreased,Grey Matter,Cortex,Somatosensory System,Primary Somatosensory Cortex Upperlips
+none,increased,Grey Matter,Cortex,Retrosplenial System,Retosplenial Dysgranular Cortex
+none,decreased,Grey Matter,Basal ganglia,Striatal System,Striatum
+decreased,none,Grey Matter,Cortex,Hippocampus Fomation,Subiculum
+both,increased,White Matter,Brainstem,Medulla,Brainstem
+none,increased,White Matter,Mesencephalon,Colliculi,Commissure of the Inferior Colliculus
